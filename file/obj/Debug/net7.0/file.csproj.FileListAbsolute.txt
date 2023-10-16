@@ -1,0 +1,14 @@
+C:\Users\semen\source\repos\file\file\bin\Debug\net7.0\file.exe
+C:\Users\semen\source\repos\file\file\bin\Debug\net7.0\file.deps.json
+C:\Users\semen\source\repos\file\file\bin\Debug\net7.0\file.runtimeconfig.json
+C:\Users\semen\source\repos\file\file\bin\Debug\net7.0\file.dll
+C:\Users\semen\source\repos\file\file\bin\Debug\net7.0\file.pdb
+C:\Users\semen\source\repos\file\file\obj\Debug\net7.0\file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semen\source\repos\file\file\obj\Debug\net7.0\file.AssemblyInfoInputs.cache
+C:\Users\semen\source\repos\file\file\obj\Debug\net7.0\file.AssemblyInfo.cs
+C:\Users\semen\source\repos\file\file\obj\Debug\net7.0\file.csproj.CoreCompileInputs.cache
+C:\Users\semen\source\repos\file\file\obj\Debug\net7.0\file.dll
+C:\Users\semen\source\repos\file\file\obj\Debug\net7.0\refint\file.dll
+C:\Users\semen\source\repos\file\file\obj\Debug\net7.0\file.pdb
+C:\Users\semen\source\repos\file\file\obj\Debug\net7.0\file.genruntimeconfig.cache
+C:\Users\semen\source\repos\file\file\obj\Debug\net7.0\ref\file.dll
